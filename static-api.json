@@ -1,7 +1,7 @@
 [
     {"nama": "benzema", "imageId": "benzema"},
     {"nama": "dry-fit", "imageId": "dryfit"},
-    {"nama": "dry-fit B", "imageId": "dryfitb"},
+    {"nama": "dry-fitB", "imageId": "dryfitb"},
     {"nama": "mesh", "imageId": "mesh"},
     {"nama": "milano", "imageId": "milano"},
     {"nama": "serena", "imageId": "serena"}
