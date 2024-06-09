@@ -1,5 +1,8 @@
 [
-    {"nama": "Sepak Bola", "imageId": "k2"},
-    {"nama": "Futsal", "imageId": "k1"},
-    {"nama": "Running", "imageId": "k3"}
+    {"nama": "benzema", "imageId": "benzema"},
+    {"nama": "dry-fit", "imageId": "dryfit"},
+    {"nama": "dry-fit B", "imageId": "dryfitb"},
+    {"nama": "mesh", "imageId": "mesh"},
+    {"nama": "milano", "imageId": "milano"},
+    {"nama": "serena", "imageId": "serena"},
 ]
